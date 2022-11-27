@@ -1,0 +1,14 @@
+.formatacao{
+    display: inline-flex;
+    width: 100%;
+}
+
+.menu{
+    width: 20%;
+    background-color: rgb(175, 131, 246);
+}
+
+.principal{
+    width: 80%;
+    background-color: aliceblue;
+}

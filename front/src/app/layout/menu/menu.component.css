@@ -1,0 +1,21 @@
+.icone{
+    border: 1px solid  white;
+    border-radius: 80px;
+    width: 50px;
+    height: 50px;
+    background-image: url("https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQXtm7zEfB-OFOu3s2uhymHW8jeOrzRk-Q6diuz4P5sjiU8zON8QMD9Ni6-AU1Q6eWXLMrSpVCmPUU&usqp=CAc");
+    background-position: center;
+    background-size: cover;
+    margin-right: 10px;
+}
+
+
+.usuario{
+    display: inline-flex;
+    padding-left: 10px;
+    padding-top: 15px;
+}
+
+.cor-menu>li{
+    background-color: rgb(175, 131, 246);;
+}
